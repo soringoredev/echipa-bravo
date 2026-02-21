@@ -4,5 +4,7 @@ public class Experiment {
         System.out.println("Buna ziua!");
         System.out.println("Buna ziua 2!");
 
+        System.out.printf("wiefbibwnef");
+
     }
 }
